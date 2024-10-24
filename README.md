@@ -1,4 +1,20 @@
-# Kaon Network Developer Documentation
+# Kaon Network Testnet v2.5 Specification
+
+Kaon is a Bitcoin-native L1 blockchain with EVM composability, built by a security-first team to address systemic security risks inherent in bridge-, multisig-, oracle-, and rollup-based designs.
+
+Current solutions either rely on centralized parties and points of failures, or do not allow for seamless integration of EVM environments within a UTXO model framework. All these are hindering the growth and potential of the BTC ecosystem.
+
+Our mission is to solve these systemic issues. The result is a bridge-less and oracle-less essential infrastructure layer that not only offers the first cryptographically secure wrapped BTC, but goes further and makes Bitcoin interoperability secure, composable and scalable.
+
+Kaon’s consensus model, UTXO native design, and UTXO and EVM information handling allows it to give the user a combination of important functionalities that are unique only to Kaon. Some of the more pertinent ones include:
+
+- Avoiding centralisation risk.
+- Having control over the entire transaction process.
+- Maintaining the same security and privacy standards as Bitcoin.
+
+All while enjoying seamless integration between EVM environments and the UTXO model.
+
+Below are Kaon's testnet specifications for Testnet V2.5. This will be updated as future testnet versions are rolled out.
 
 ## Overview
 
